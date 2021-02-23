@@ -4,8 +4,8 @@ repo: website-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Computing For Geeks
-    url: https://computingforgeeks.com
+  #- name: Computing For Geeks
+   # url: https://computingforgeeks.com
   - name: Hire Best Engineers
     url: https://hirebestengineers.com/
  
