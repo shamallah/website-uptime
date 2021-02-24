@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/computingforgeeks.com",
     "slug": "computing-for-geeks",
     "status": "down",
-    "uptime": "19.04%",
-    "uptimeDay": "19.04%",
-    "uptimeWeek": "19.04%",
-    "uptimeMonth": "19.04%",
-    "uptimeYear": "19.04%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "uptime": "97.08%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
+    "time": 95,
+    "timeDay": 95,
+    "timeWeek": 95,
+    "timeMonth": 95,
+    "timeYear": 95,
     "dailyMinutesDown": {
       "2021-02-23": 14
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 377,
-    "timeWeek": 377,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "time": 362,
+    "timeDay": 362,
+    "timeWeek": 362,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {}
   }
 ]
