@@ -24,18 +24,19 @@
     "url": "https://hirebestengineers.com/",
     "icon": "https://favicons.githubusercontent.com/hirebestengineers.com",
     "slug": "hire-best-engineers",
-    "status": "up",
-    "uptime": "99.75%",
+    "status": "down",
+    "uptime": "99.76%",
     "uptimeDay": "95.95%",
     "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 355,
-    "timeDay": 366,
-    "timeWeek": 353,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 347,
+    "timeDay": 314,
+    "timeWeek": 333,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {
+      "2021-03-12": 0,
       "2021-03-11": 58
     }
   }
